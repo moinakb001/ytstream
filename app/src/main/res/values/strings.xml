@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YT Stream</string>
+    <string name="status_idle">Idle</string>
+    <string name="go_live">Go live</string>
+    <string name="stop">Stop</string>
+    <string name="stopping">Stopping…</string>
+    <string name="open_youtube">Open on YouTube</string>
+    <string name="section_sources">Sources</string>
+    <string name="video_source">Video source</string>
+    <string name="audio_source">Audio source</string>
+    <string name="refresh_sources">Refresh sources</string>
+    <string name="rotation">Rotation</string>
+    <string name="mirror">Mirror</string>
+    <string name="section_destination">Destination</string>
+    <string name="mode_account">YouTube account</string>
+    <string name="mode_key">Stream key</string>
+    <string name="sign_in">Sign in</string>
+    <string name="not_signed_in">Not signed in</string>
+    <string name="signed_in">Authorized for YouTube</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="update_metadata">Update title &amp; description now</string>
+    <string name="privacy">Privacy</string>
+    <string name="category">Category</string>
+    <string name="tags">Tags</string>
+    <string name="tags_hint">comma, separated, tags</string>
+    <string name="latency">Latency</string>
+    <string name="made_for_kids">Made for kids</string>
+    <string name="dvr">Allow viewers to rewind (DVR)</string>
+    <string name="auto_stop">End broadcast when stream stops</string>
+    <string name="thumbnail">Thumbnail…</string>
+    <string name="thumbnail_hint">Long-press to clear</string>
+    <string name="no_thumbnail">No thumbnail</string>
+    <string name="stream_key">HLS stream key</string>
+    <string name="stream_key_hint">From YouTube Studio (stream type: HLS)</string>
+    <string name="section_encoding">Encoding</string>
+    <string name="resolution">Resolution</string>
+    <string name="fps">Frame rate</string>
+    <string name="video_bitrate">Video bitrate (kbps)</string>
+    <string name="audio_bitrate">Audio bitrate</string>
+    <string name="segment_duration">HLS segment length</string>
+    <string name="encoder">H.264 encoder</string>
+</resources>

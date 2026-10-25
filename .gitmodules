@@ -1,0 +1,9 @@
+[submodule "app/src/main/cpp/third_party/libusb"]
+	path = app/src/main/cpp/third_party/libusb
+	url = https://github.com/libusb/libusb.git
+[submodule "app/src/main/cpp/third_party/libuvc"]
+	path = app/src/main/cpp/third_party/libuvc
+	url = https://github.com/libuvc/libuvc.git
+[submodule "app/src/main/cpp/third_party/cJSON"]
+	path = app/src/main/cpp/third_party/cJSON
+	url = https://github.com/DaveGamble/cJSON.git
